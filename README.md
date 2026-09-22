@@ -9,8 +9,8 @@ neural mutual-information estimation) ·
 [SΩI](https://arxiv.org/abs/2402.05667) (ICML 2024, first scalable O-information
 estimator) · [TENDE](https://arxiv.org/abs/2510.14096) (AISTATS 2026) ·
 [INFO-SEDD](https://arxiv.org/abs/2502.19183) (ICLR 2026).
-Current focus: trajectory inference and foundation models for it
-([ICML 2026](https://arxiv.org/abs/2604.20775)).
+Current focus: trajectory inference
+([ICML 2026](https://arxiv.org/abs/2604.20775)) and foundation models for it.
 
 🌐 [franzese.eurecom.io](https://franzese.eurecom.io) ·
 🎓 [Google Scholar](https://scholar.google.com/citations?user=kEtx_WwAAAAJ) ·
