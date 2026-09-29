@@ -8,7 +8,9 @@ Diffusion-based estimators of information-theoretic quantities:
 neural mutual-information estimation) ·
 [SΩI](https://arxiv.org/abs/2402.05667) (ICML 2024 oral, first scalable O-information
 estimator) · [TENDE](https://arxiv.org/abs/2510.14096) (AISTATS 2026) ·
-[INFO-SEDD](https://arxiv.org/abs/2502.19183) (ICLR 2026).
+[INFO-SEDD](https://arxiv.org/abs/2502.19183) (ICLR 2026) ·
+[ALICE](https://arxiv.org/abs/2609.34962) (2026, first zero-shot MI estimator: one pretrained
+model, in-context, no per-dataset training).
 Current focus: trajectory inference — relative-entropy estimation in function
 space, [ICML 2026](https://arxiv.org/abs/2604.20775) — and, separately, ongoing
 work on foundation models for trajectory inference.
